@@ -38,6 +38,7 @@
     "grunt-contrib-htmlmin": "^0.2.0",
     "grunt-eslint": "^0.3.2",
     "grunt-jscs-checker": "^0.4.1",
-    "load-grunt-config": "^0.8.0-beta.1"
+    "load-grunt-config": "^0.8.0-beta.1",
+    "grunt-manifest": "^0.4.0"
   }
 }
